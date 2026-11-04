@@ -2,7 +2,7 @@
   "schemaVersion": 3,
   "churchName": "Panama City Seventh-day Adventist Church",
   "contentNotice": "SAMPLE / placeholder content. These are not real PCSDA events, times, locations, or announcements. Replace this file before the church relies on it.",
-  "updatedAt": "2026-11-04T20:00:31.234Z",
+  "updatedAt": "2026-11-04T20:09:35.899Z",
   "livestream": {
     "channelId": "UCSgu6_z2nkbtubQekt_JBsw"
   },
@@ -12,12 +12,12 @@
   "events": [
     {
       "id": "sample-upcoming-timed",
-      "title": "SAMPLE: Upcoming event placeholder",
-      "start": "2026-11-07T13:01:00-06:00",
-      "end": "2026-11-07T13:17:00-06:00",
+      "title": "International Veggie Food Festival",
+      "location": "PCSDA Church",
+      "description": "Serving good food to the community!",
       "allDay": false,
-      "location": "SAMPLE location — replace with the real room or address",
-      "description": "Placeholder description for layout only. The clock time is not a real service time. Not a real church event."
+      "start": "2026-09-13T16:00:00-05:00",
+      "end": "2026-09-13T19:00:00-05:00"
     }
   ],
   "bulletins": [
@@ -27,21 +27,23 @@
       "title": "SAMPLE: Bulletin for a placeholder Sabbath",
       "serviceOrder": [
         {
-          "time": "Placeholder",
           "title": "SAMPLE: First service item",
+          "time": "Placeholder",
           "note": "Not a real order of service."
         },
         {
-          "time": "Placeholder",
-          "title": "SAMPLE: Second service item"
+          "title": "SAMPLE: Second service item",
+          "time": "Placeholder"
         },
-        "SAMPLE: Third service item, written as a plain string"
+        {
+          "title": "SAMPLE: Third service item, written as a plain string"
+        }
       ],
       "announcements": [
         "SAMPLE: Placeholder announcement. Replace this with a real notice.",
         "SAMPLE: Second placeholder announcement."
       ],
-      "pdfUrl": "https://example.com/pcsda/sample-bulletin.pdf"
+      "pdfUrl": "https://iamroot88.github.io/pcsda-content/pdfs/bulletin-2026-11-07.pdf"
     }
   ]
 }
