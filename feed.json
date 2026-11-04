@@ -1,10 +1,13 @@
 {
-  "schemaVersion": 2,
+  "schemaVersion": 3,
   "churchName": "Panama City Seventh-day Adventist Church",
   "contentNotice": "SAMPLE / placeholder content. These are not real PCSDA events, times, locations, or announcements. Replace this file before the church relies on it.",
   "updatedAt": "2026-01-01T00:00:00Z",
   "livestream": {
     "channelId": "UCSgu6_z2nkbtubQekt_JBsw"
+  },
+  "prayer": {
+    "email": "pcsdaservice@gmail.com"
   },
   "events": [
     {
