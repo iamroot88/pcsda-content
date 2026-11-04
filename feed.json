@@ -2,7 +2,7 @@
   "schemaVersion": 3,
   "churchName": "Panama City Seventh-day Adventist Church",
   "contentNotice": "SAMPLE / placeholder content. These are not real PCSDA events, times, locations, or announcements. Replace this file before the church relies on it.",
-  "updatedAt": "2026-11-04T20:30:11.148Z",
+  "updatedAt": "2026-11-04T20:30:19.856Z",
   "livestream": {
     "channelId": "UCSgu6_z2nkbtubQekt_JBsw"
   },
@@ -25,15 +25,8 @@
       "id": "sample-bulletin-2026-11-07",
       "weekOf": "2026-11-07",
       "title": "SAMPLE: Bulletin for a placeholder Sabbath",
-      "serviceOrder": [
-        {
-          "title": "Start of Main Service",
-          "time": "11am"
-        }
-      ],
-      "announcements": [
-        "Potluck today"
-      ],
+      "serviceOrder": [],
+      "announcements": [],
       "pdfUrl": "https://iamroot88.github.io/pcsda-content/pdfs/bulletin-2026-11-07.pdf"
     }
   ]
