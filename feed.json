@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 1,
+  "churchName": "Panama City Seventh-day Adventist Church",
+  "contentNotice": "SAMPLE / placeholder content. These are not real PCSDA events, times, locations, or announcements. Replace this file before the church relies on it.",
+  "updatedAt": "2026-01-01T00:00:00Z",
+  "events": [
+    {
+      "id": "sample-upcoming-timed",
+      "title": "SAMPLE: Upcoming event placeholder",
+      "start": "2026-11-07T13:01:00",
+      "end": "2026-11-07T13:17:00",
+      "allDay": false,
+      "location": "SAMPLE location — replace with the real room or address",
+      "description": "Placeholder description for layout only. The clock time is not a real service time. Not a real church event."
+    },
+    {
+      "id": "sample-upcoming-all-day",
+      "title": "SAMPLE: All-day event placeholder",
+      "start": "2026-12-12",
+      "end": "2026-12-13",
+      "allDay": true,
+      "location": "SAMPLE location",
+      "description": "Placeholder so the list can show an all-day item. Not a real church event."
+    },
+    {
+      "id": "sample-upcoming-next-year",
+      "title": "SAMPLE: Later year event placeholder",
+      "start": "2027-03-06",
+      "end": "2027-03-07",
+      "allDay": true,
+      "location": "SAMPLE location",
+      "description": "Placeholder dated in the following year so the upcoming list is not empty after 2026. Not a real church event."
+    },
+    {
+      "id": "sample-past",
+      "title": "SAMPLE: Past event placeholder",
+      "start": "2026-01-17T13:01:00",
+      "end": "2026-01-17T13:17:00",
+      "location": "SAMPLE location",
+      "description": "Placeholder used to show how past events stay grouped out of the upcoming list. Not a real church event."
+    }
+  ],
+  "bulletins": [
+    {
+      "id": "sample-bulletin-2026-11-07",
+      "weekOf": "2026-11-07",
+      "title": "SAMPLE: Bulletin for a placeholder Sabbath",
+      "serviceOrder": [
+        {
+          "time": "Placeholder",
+          "title": "SAMPLE: First service item",
+          "note": "Not a real order of service."
+        },
+        {
+          "time": "Placeholder",
+          "title": "SAMPLE: Second service item"
+        },
+        "SAMPLE: Third service item, written as a plain string"
+      ],
+      "announcements": [
+        "SAMPLE: Placeholder announcement. Replace this with a real notice.",
+        "SAMPLE: Second placeholder announcement."
+      ],
+      "pdfUrl": "https://example.com/pcsda/sample-bulletin.pdf"
+    },
+    {
+      "id": "sample-bulletin-2026-11-14",
+      "weekOf": "2026-11-14",
+      "title": "SAMPLE: Following week bulletin placeholder",
+      "serviceOrder": [
+        {
+          "title": "SAMPLE: Service item for another week"
+        }
+      ],
+      "announcements": [
+        "SAMPLE: Announcement for another placeholder week."
+      ]
+    },
+    {
+      "id": "sample-bulletin-2026-10-31",
+      "weekOf": "2026-10-31",
+      "title": "SAMPLE: Archived bulletin placeholder",
+      "serviceOrder": [
+        {
+          "title": "SAMPLE: Archived service item"
+        }
+      ],
+      "announcements": [
+        "SAMPLE: Archived placeholder announcement."
+      ]
+    }
+  ]
+}
